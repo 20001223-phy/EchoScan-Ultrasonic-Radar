@@ -106,6 +106,14 @@ python Python/radar_visualization.py
 - Adjustable scanning resolution and detection range.
 - Object tracking across successive scans.
 
+## Project Demo
+
+**Hackster Project:** [EchoScan: Real-Time Ultrasonic Radar](https://www.hackster.io/laiba-iqbal/echoscan-real-time-ultrasonic-radar-73c545)
+
+**Demonstration Video:** [Watch the project demonstration](https://youtu.be/_lOBKLdJjdA)
+
+The Hackster page documents the project motivation, hardware setup, working principle, and implementation. The demonstration video shows the assembled prototype in operation.
+
 ## Author
 
 Laiba Iqbal
